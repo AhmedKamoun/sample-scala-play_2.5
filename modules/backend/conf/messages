@@ -1,0 +1,10 @@
+#play.api.data.validation.Validation
+#https://www.playframework.com/documentation/2.5.x/ScalaI18N#Externalizing-messages
+error.required=form_error_required
+error.email=form_error_email
+error.min=form_error_min
+error.min.strict=form_error_min_strict
+error.max=form_error_max
+error.max.strict=form_error_max_strict
+error.minLength=form_error_min_length
+error.maxLength=form_error_max_length

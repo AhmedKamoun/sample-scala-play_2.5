@@ -1,0 +1,6 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+#http://windrush.io/tech/2013/12/17/cors-and-play.html
+#make this the first rule: OPTIONS preflight request:
